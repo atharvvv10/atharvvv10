@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atharv Chougale.
-- 👀 I’m interested in field of Data Science as well as AIML.
-- 🌱 I’m currently exploring the field of Data Science.
+- 👀 I’m interested in field of DevOps and Cloud Computing. 
+- 🌱 I’m currently exploring various DevOps tools such as Docker, Ansible, Jenkins and Kubernutes. 
 - 💞️ I’m looking forward to connect with people and learn from them.
 - 📫 You can reach me by the following links-
 - LinkedIn: https://in.linkedin.com/in/atharv-chougale-973259259
