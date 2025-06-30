@@ -3,5 +3,5 @@
 - 🌱 I’m currently exploring various DevOps tools such as Docker, Ansible, Jenkins and Kubernutes. 
 - 💞️ I’m looking forward to connect with people and learn from them.
 - 📫 You can reach me by the following links-
-- LinkedIn: https://in.linkedin.com/in/atharv-chougale-973259259
+- LinkedIn: https://www.linkedin.com/in/atharv-chougale730042343
 - Gmail: atharvachaugale22@gmail.com
